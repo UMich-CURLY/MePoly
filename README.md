@@ -3,7 +3,7 @@
 <!-- Official code release for the paper:
 **"MePoly: Max Entropy Polynomial Policy Optimization"** -->
 
-![](.media/fig-bandit.png)
+![](media/fig-bandit.png)
 
 This repository provides a unified training and evaluation framework for continuous-action policy optimization with:
 - `MePoly` (max-entropy polynomial policy)
